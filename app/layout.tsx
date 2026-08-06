@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tharin Portfolio",
+  title: "Tharin Jayasekara",
   description: "Portfolio website for Tharin, a full-stack developer building modern digital products.",
 };
 
